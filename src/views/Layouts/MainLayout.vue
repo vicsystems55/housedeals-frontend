@@ -175,7 +175,7 @@
 							<div class="footer__top__info">
 								<a title="Logo" href="01_index_1.html" class="footer__top__info__logo"><img src="images/assets/logo.png" alt="Golo"></a>
 								<p class="footer__top__info__desc">Discover amazing deals everywhere you go.</p>
-								<div class="footer__top__info__app">
+								<div class="footer__top__info__app d-none">
 									<a title="App Store" href="#" class="banner-apps__download__iphone"><img src="images/assets/app-store.png" alt="App Store"></a>
 									<a title="Google Play" href="#" class="banner-apps__download__android"><img src="images/assets/google-play.png" alt="Google Play"></a>
 								</div>

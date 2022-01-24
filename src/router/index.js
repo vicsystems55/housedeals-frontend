@@ -17,6 +17,7 @@ import AgentDashboard from '../views/Agent/Dashboard.vue'
 import AgentNotifications from '../views/Agent/Notifications.vue'
 
 import CompanyOnboarding from '../views/Auth/CompanyOnboarding.vue'
+import CompanyOnboardingSuccess from '../views/Auth/CompanyOnboardingSuccess.vue'
 import ForgotPassword from '../views/Auth/ForgotPassword.vue'
 import Login from '../views/Auth/Login.vue'
 import UpdatePassword from '../views/Auth/UpdatePassword.vue'
@@ -108,6 +109,11 @@ const routes = [
           },
 
           {
+            path: '/company-onboarding-success',
+            component: CompanyOnboardingSuccess,
+          },
+
+          {
             path: '/forgot-password',
             component: ForgotPassword,
           },
@@ -128,12 +134,12 @@ const routes = [
           },
 
           {
-            path: '/company/creat-agent',
+            path: '/company/create-agent',
             component: CompanyCreateAgent,
           },
 
           {
-            path: '/company/creat-listing',
+            path: '/company/create-listing',
             component: CompanyCreateListing,
           },
 
