@@ -45,10 +45,10 @@
                                         </div><!-- .popup__menu -->
                                     </div><!-- .popup__content -->
                                     <div class="popup__button popup__box d-none">
-                                        <a title="Add place" href="add-place.html" class="btn">
+                                        <router-link title="Add place" to="/login" class="btn">
                                             <i class="la la-plus"></i>
                                             <span>Login</span>
-                                        </a>
+                                        </router-link>
                                     </div><!-- .popup__button -->
                                 </div><!-- .popup -->
                             </div><!-- .site__menu -->
@@ -84,7 +84,7 @@
                                 </ul>
                             </nav>
                             <div class="right-header__login d-none">
-                                <a title="Login" class="open-login" href="#">Login..</a>
+                                <router-link title="Login" class="open-login" to="/login">Login</router-link>
                             </div><!-- .right-header__login -->
                             <div class="popup popup-form">
                                 <a title="Close" href="#" class="popup__close">
@@ -154,10 +154,10 @@
                                 </div><!-- .site__search -->
                             </div>
                             <div class="right-header__button btn">
-                                <a title="Add place" href="add-place.html">
+                                <router-link title="Add place" to="/login">
                                     
                                     <span>Login</span>
-                                </a>
+                                </router-link>
                             </div><!-- .right-header__button -->
                         </div><!-- .right-header -->
                     </div><!-- .col-md-6 -->
@@ -185,10 +185,8 @@
 							<aside class="footer__top__nav">
 								<h3>Company</h3>
 								<ul>
-									<li><a title="About Us" href="06_about-us.html">About Us</a></li>
-									<li><a title="Blog" href="07_blog-right-sidebar.html">Blog</a></li>
-									
-									<li><a title="Contact" href="09_contact-us.html">Contact</a></li>
+									<li><router-link title="About Us" to="/about">About Us</router-link></li>
+									<li><router-link title="Contact" to="/contact">Contact</router-link></li>
 								</ul>
 							</aside>
 						</div>

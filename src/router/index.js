@@ -48,6 +48,8 @@ import SuperadminUpdatePost from '../views/Superadmin/UpdatePost.vue'
 
 import MainLayout from '../views/Layouts/MainLayout.vue'
 
+import Loginx from '../views/Auth/Login.vue'
+
 
 
 
@@ -62,6 +64,11 @@ const routes = [
     component: MainLayout,
     children: 
         [
+
+          {
+            path: '/login',
+            component: Loginx,
+          },
 
           {
             path: '',
