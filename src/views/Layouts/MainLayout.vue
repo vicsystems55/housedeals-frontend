@@ -23,20 +23,20 @@
                                         <div class="popup__menu popup__box">
                                             <ul class="menu-arrow">
                                                 <li>
-                                                    <a href="#" title="Demos">Home</a>
+                                                    <router-link to="/" title="Demos">Home</router-link>
                                                    
                                                 </li>
                                                 <li>
-                                                    <a href="#" title="Demos">About</a>
+                                                    <router-link to="/about" title="Demos">About</router-link>
                                                    
                                                 </li>
 
                                                 <li>
-                                                    <a href="#" title="Demos">Contact</a>
+                                                    <router-link to="/contact" title="Demos">Contact</router-link>
                                                    
                                                 </li>
                                                 <li>
-                                                    <a href="#" title="Listings">Market Place</a>
+                                                    <router-link to="/market-place" title="Listings">Market Place</router-link>
                                                   
                                                 </li>
                                                
@@ -65,20 +65,20 @@
                             <nav class="main-menu ">
                                 <ul>
                                     <li>
-                                        <a href="#" title="Demos">Home</a>
+                                        <router-link to="/" title="Demos">Home</router-link>
                                      
                                     </li>
                                     <li>
-                                        <a href="#" title="Listings">About us</a>
+                                        <router-link to="/about" title="Listings">About us</router-link>
                                       
                                     </li>
                                     <li>
-                                        <a title="Page" href="#">Contact us</a>
+                                        <router-link  to="/contact">Contact us</router-link>
                                       
                                     </li>
 
                                     <li>
-                                        <a title="Page" href="#">Market Place</a>
+                                        <router-link title="Page" to="/market-place">Market Place</router-link>
                                       
                                     </li>
                                 </ul>

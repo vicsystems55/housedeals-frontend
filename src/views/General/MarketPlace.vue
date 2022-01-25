@@ -612,3 +612,34 @@
     </div><!-- .archive-city -->
 </main><!-- .site-main -->
 </template>
+
+<script>
+export default {
+    data() {
+        return {
+            listings: []
+        }
+    },
+
+    methods: {
+        get_listings(){
+
+            this.axios({
+                url: process.env.VUE_APP_URL+'/api/listings',
+                method: 'get'
+            })
+            .then((response) =>{
+                console.log(response)
+            })
+            .catch((response) =>{
+                console.log(response)
+            })
+
+        }
+    },
+
+    mounted() {
+        this.get_listings()
+    },
+}
+</script>

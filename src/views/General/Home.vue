@@ -9,15 +9,25 @@
                         <form action="#" class="site-banner__search layout-02">
                             <div class="field-input">
                                 <label for="s">Find</label>
-                                <input class="site-banner__search__input open-suggestion" id="s" type="text" name="s" placeholder="Ex: fastfood, beer" autocomplete="off">
+                                <input class="site-banner__search__input open-suggestion" id="s" type="text" name="s" placeholder="Ex: Duplex, Bungalow" autocomplete="off">
                                 <div class="search-suggestions name-suggestions">
                                     <ul>
-                                        <li><a href="#"><i class="las la-utensils"></i><span>Restaurant</span></a></li>
-                                        <li><a href="#"><i class="las la-spa"></i><span>Beauty</span></a></li>
-                                        <li><a href="#"><i class="las la-dumbbell"></i><span>Fitness</span></a></li>
-                                        <li><a href="#"><i class="las la-cocktail"></i><span>Nightlight</span></a></li>
-                                        <li><a href="#"><i class="las la-shopping-bag"></i><span>Shopping</span></a></li>
-                                        <li><a href="#"><i class="las la-film"></i><span>Cinema</span></a></li>
+                                        <li><a href="#"><i class="las la-home"></i><span>Duplex</span></a></li>
+                                        <li><a href="#"><i class="las la-home"></i><span>Detached Duplex</span></a></li>
+                                        <li><a href="#"><i class="las la-home"></i><span>Semi Detached Duplex</span></a></li>
+                                        <li><a href="#"><i class="las la-home"></i><span>Terrace</span></a></li>
+                                        <li><a href="#"><i class="las la-home"></i><span>Penthouse</span></a></li>
+                                        <li><a href="#"><i class="las la-home"></i><span>Apartment\flat</span></a></li>
+                                        <li><a href="#"><i class="las la-home"></i><span>Bungalow</span></a></li>
+                                        <li><a href="#"><i class="las la-home"></i><span>Mansion</span></a></li>
+                                        
+
+
+
+
+
+
+
                                     </ul>
                                 </div>
                             </div><!-- .site-banner__search__input -->
