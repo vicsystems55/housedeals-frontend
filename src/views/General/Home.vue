@@ -37,7 +37,15 @@
                                 <div class="search-suggestions location-suggestions">
                                     <ul>
                                         <li><a href="#"><i class="las la-location-arrow"></i><span>Current location</span></a></li>
-                                        <li><a href="#"><span>San Francisco, CA</span></a></li>
+                                        
+                                        <li><a href="#"><span>FCT Abuja</span></a></li>
+
+                                        <li><a href="#"><span>Lagos</span></a></li>
+
+                                        <li><a href="#"><span>Port-Harcourt</span></a></li>
+
+                                        <li><a href="#"><span>Calabar</span></a></li>
+
                                     </ul>
                                 </div>
                             </div><!-- .site-banner__search__input -->
@@ -97,39 +105,29 @@
                             <div class="place-item layout-02 place-hover">
                                 <div class="place-inner">
                                     <div class="place-thumb hover-img">
-                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/01.jpg" alt=""></a>
+                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/1.jpeg" alt=""></a>
                                         <a href="#" class="golo-add-to-wishlist btn-add-to-wishlist " data-place-id="185">
                                             <span class="icon-heart">
                                                 <i class="la la-bookmark large"></i>
                                             </span>                                    
                                         </a>       
-                                        <a class="entry-category" href="#">
-                                            <img src="images/workspace/place-icon-01.png" alt="">
-                                        </a>
-                                        <a href="#" class="author" title="Author"><img src="images/avatars/male-3.jpg" alt="Author"></a>
+                                        
+                                     
                                         <div class="feature">Featured</div>
                                     </div>       
                                     <div class="entry-detail">
                                         <div class="entry-head">
-                                            <div class="place-type list-item">
-                                                <span>Restaurant</span>
-                                            </div>
+                                            
                                             <div class="place-city">
-                                                <a href="#">Paris</a>
+                                                <a href="#">Life Camp, Abuja</a>
                                             </div>
                                         </div>
-                                        <h3 class="place-title"><a href="single-1.html">Mattone Restaurant</a></h3>
+                                        <h3 class="place-title"><a href="single-1.html">Ricardo Homes</a></h3>
                                         <div class="entry-address"><i class="las la-map-marker"></i>153 West 27th Street, New York</div>
                                         <div class="entry-bottom">
-                                            <div class="place-preview">
-                                                <div class="place-rating">
-                                                    <span>5.0</span>
-                                                    <i class="la la-star"></i>
-                                                </div>
-                                                <span class="count-reviews">(2 Reviews)</span>
-                                            </div>
+                                            
                                             <div class="place-price">
-                                                <span>$27/m</span>
+                                                <span>NGN 27M</span>
                                             </div>
                                         </div>
                                     </div>
@@ -138,38 +136,28 @@
                             <div class="place-item layout-02 place-hover">
                                 <div class="place-inner">
                                     <div class="place-thumb hover-img">
-                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/02.jpg" alt=""></a>
+                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/2.jpeg" alt=""></a>
                                         <a href="#" class="golo-add-to-wishlist btn-add-to-wishlist " data-place-id="185">
                                             <span class="icon-heart">
                                                 <i class="la la-bookmark large"></i>
                                             </span>                                    
                                         </a>       
-                                        <a class="entry-category" href="#">
-                                            <img src="images/workspace/place-icon-02.png" alt="">
-                                        </a>
-                                        <a href="#" class="author" title="Author"><img src="images/avatars/male-2.jpg" alt="Author"></a>
+                                        
+                                       
                                     </div>       
                                     <div class="entry-detail">
                                         <div class="entry-head">
-                                            <div class="place-type list-item">
-                                                <span>Gym</span>
-                                            </div>
+                                            
                                             <div class="place-city">
-                                                <a href="#">Bordeaux</a>
+                                                <a href="#">Lugbe, Abuja</a>
                                             </div>
                                         </div>
-                                        <h3 class="place-title"><a href="single-1.html">Retro Fitness</a></h3>
+                                        <h3 class="place-title"><a href="single-1.html">Leptons MariGold</a></h3>
                                         <div class="entry-address"><i class="las la-map-marker"></i>153 West 27th Street, New York</div>
                                         <div class="entry-bottom">
-                                            <div class="place-preview">
-                                                <div class="place-rating">
-                                                    <span>5.0</span>
-                                                    <i class="la la-star"></i>
-                                                </div>
-                                                <span class="count-reviews">(2 Reviews)</span>
-                                            </div>
+                                            
                                             <div class="place-price">
-                                                <span>$48/m</span>
+                                                <span>NGN 48M</span>
                                             </div>
                                         </div>
                                     </div>
@@ -178,110 +166,59 @@
                             <div class="place-item layout-02 place-hover">
                                 <div class="place-inner">
                                     <div class="place-thumb hover-img">
-                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/03.jpg" alt=""></a>
+                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/3.jpeg" alt=""></a>
                                         <a href="#" class="golo-add-to-wishlist btn-add-to-wishlist " data-place-id="185">
                                             <span class="icon-heart">
                                                 <i class="la la-bookmark large"></i>
                                             </span>                                    
                                         </a>       
-                                        <a class="entry-category" href="#">
-                                            <img src="images/workspace/place-icon-01.png" alt="">
-                                        </a>
-                                        <a href="#" class="author" title="Author"><img src="images/avatars/female-3.jpg" alt="Author"></a>
+                                       
+                                        
                                     </div>       
                                     <div class="entry-detail">
                                         <div class="entry-head">
-                                            <div class="place-type list-item">
-                                                <span>Massage</span>
-                                            </div>
+                                           
                                             <div class="place-city">
-                                                <a href="#">Lyon</a>
+                                                <a href="#">Karsana, Abuja</a>
                                             </div>
                                         </div>
-                                        <h3 class="place-title"><a href="single-1.html">Renew Body Spa</a></h3>
+                                        <h3 class="place-title"><a href="single-1.html">Ruisseau Residence</a></h3>
                                         <div class="entry-address"><i class="las la-map-marker"></i>153 West 27th Street, New York</div>
                                         <div class="entry-bottom">
-                                            <div class="place-preview">
-                                                <div class="place-rating">
-                                                    <span>5.0</span>
-                                                    <i class="la la-star"></i>
-                                                </div>
-                                                <span class="count-reviews">(2 Reviews)</span>
-                                            </div>
+                                            
                                             <div class="place-price">
-                                                <span>$55/m</span>
+                                                <span>NGN 55M</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                           
                             <div class="place-item layout-02 place-hover">
                                 <div class="place-inner">
                                     <div class="place-thumb hover-img">
-                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/04.jpg" alt=""></a>
+                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/1.jpeg" alt=""></a>
                                         <a href="#" class="golo-add-to-wishlist btn-add-to-wishlist " data-place-id="185">
                                             <span class="icon-heart">
                                                 <i class="la la-bookmark large"></i>
                                             </span>                                    
                                         </a>       
-                                        <a class="entry-category" href="#">
-                                            <img src="images/workspace/place-icon-01.png" alt="">
-                                        </a>
-                                        <a href="#" class="author" title="Author"><img src="images/avatars/male-4.jpg" alt="Author"></a>
+                                       
+                                        
                                     </div>       
                                     <div class="entry-detail">
                                         <div class="entry-head">
-                                            <div class="place-type list-item">
-                                                <span>Clothing Shop</span>
-                                            </div>
+                                            
                                             <div class="place-city">
-                                                <a href="#">Nantes</a>
+                                                <a href="#">Karsana, Abuja</a>
                                             </div>
                                         </div>
-                                        <h3 class="place-title"><a href="single-1.html">Antoinette</a></h3>
+                                        <h3 class="place-title"><a href="single-1.html">Ruisseau Residence</a></h3>
                                         <div class="entry-address"><i class="las la-map-marker"></i>153 West 27th Street, New York</div>
                                         <div class="entry-bottom">
-                                            <div class="place-preview">
-                                                <span class="no-reviews">(no reviews)</span>
-                                            </div>
+                                            
                                             <div class="place-price">
-                                                <span>$48/m</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="place-item layout-02 place-hover">
-                                <div class="place-inner">
-                                    <div class="place-thumb hover-img">
-                                        <a class="entry-thumb" href="single-1.html"><img src="images/listing/06.jpg" alt=""></a>
-                                        <a href="#" class="golo-add-to-wishlist btn-add-to-wishlist " data-place-id="185">
-                                            <span class="icon-heart">
-                                                <i class="la la-bookmark large"></i>
-                                            </span>                                    
-                                        </a>       
-                                        <a class="entry-category" href="#">
-                                            <img src="images/workspace/place-icon-01.png" alt="">
-                                        </a>
-                                        <a href="#" class="author" title="Author"><img src="images/avatars/female-3.jpg" alt="Author"></a>
-                                    </div>       
-                                    <div class="entry-detail">
-                                        <div class="entry-head">
-                                            <div class="place-type list-item">
-                                                <span>Restaurant</span>
-                                            </div>
-                                            <div class="place-city">
-                                                <a href="#">Paris</a>
-                                            </div>
-                                        </div>
-                                        <h3 class="place-title"><a href="single-1.html">Kathay Cinema</a></h3>
-                                        <div class="entry-address"><i class="las la-map-marker"></i>153 West 27th Street, New York</div>
-                                        <div class="entry-bottom">
-                                            <div class="place-preview">
-                                                <span class="no-reviews">(no reviews)</span>
-                                            </div>
-                                            <div class="place-price">
-                                                <span>$36/m</span>
+                                                <span>NGN 36M</span>
                                             </div>
                                         </div>
                                     </div>
@@ -587,3 +524,26 @@
             </section><!-- .blogs-wrap -->
 		</main><!-- .site-main -->
 </template>
+<script>
+export default {
+
+    data() {
+        return {
+            
+        }
+    },
+
+    mounted() {
+              if (localStorage.getItem('reloaded_home')) {
+        // The page was just reloaded. Clear the value from local storage
+        // so that it will reload the next time this page is visited.
+        localStorage.removeItem('reloaded_home');
+    } else {
+        // Set a flag so that we know not to reload the page twice.
+        localStorage.setItem('reloaded_home', '1');
+        location.reload();
+    }
+    },
+    
+}
+</script>
