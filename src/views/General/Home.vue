@@ -245,7 +245,7 @@
                     <div class="inner">
                         <div class="row">
                             <div class="col-12 col-lg-3">
-                                <div class="item hover__box">
+                                <div class="item hover__box text-center">
                                     <a href="#">
                                         <img src="images/workspace/cat-1.jpg" alt="">
                                         <span class="info d-none">
@@ -256,7 +256,7 @@
                                 </div>
                             </div>
                             <div class="col-12 col-lg-3">
-                                <div class="item hover__box">
+                                <div class="item hover__box text-center">
                                     <a href="#">
                                         <img src="images/workspace/cat-2.jpg" alt="">
                                         <span class="info d-none">
@@ -267,7 +267,7 @@
                                 </div>
                             </div>
                             <div class="col-12 col-lg-3">
-                                <div class="item hover__box">
+                                <div class="item hover__box text-center">
                                     <a href="#">
                                         <img src="images/workspace/cat-3.jpg" alt="">
                                         <span class="info d-none">
@@ -279,7 +279,7 @@
                             </div>
 
                              <div class="col-12 col-lg-3">
-                                <div class="item hover__box">
+                                <div class="item hover__box text-center">
                                     <a href="#">
                                         <img src="images/workspace/cat-4.jpg" alt="">
                                         <span class="info d-none">
@@ -296,7 +296,7 @@
             <section class="cities-wrap d-none" style="background-image: url(images/workspace/bg-world.png);">
                 <div class="container">
                     <div class="title-wrap align-center">
-                        <h2>Top Coworking Cities</h2>
+                        <h2>Top Cities</h2>
                         <p>Search for coworking spaces in our most popular cities</p>
                     </div>
                     <div class="row">
@@ -480,24 +480,24 @@
                                     </div>
                                     <div class="post__info">
                                         <ul class="post__category">
-                                            <li><a title="Paris" href="02_city-details_1.html">Paris</a></li>
-                                            <li><a title="Food" href="02_city-details_1.html">Food</a></li>
+                                            <li><a title="Paris" href="02_city-details_1.html">Lagos</a></li>
+                                            
                                         </ul>
-                                        <h3 class="post__title"><a title="The 8 Most Affordable Michelin Restaurants in Paris" href="blog-detail.html">The 8 Most Affordable Michelin Restaurants in Paris</a></h3>
+                                        <h3 class="post__title"><a title="The 8 Most Affordable Duplexes in Lagos" href="blog-detail.html">The 8 Most Affordable Duplexes in Lagos</a></h3>
                                     </div>
                                 </article>
                             </div>
                             <div class="col-12 col-lg-4">
                                 <article class="post hover__box">
                                     <div class="post__thumb hover-img">
-                                        <a title="The 7 Best Restaurants to Try Kobe Beef in London" href="blog-detail.html"><img src="images/workspace/blog-02.jpg" alt="The 7 Best Restaurants to Try Kobe Beef in London"></a>
+                                        <a title="The 7 Best properties in Lagos" href="blog-detail.html"><img src="images/workspace/blog-02.jpg" alt="The 7 Best Restaurants to Try Kobe Beef in London"></a>
                                     </div>
                                     <div class="post__info">
                                         <ul class="post__category">
-                                            <li><a title="London" href="02_city-details_1.html">London</a></li>
-                                            <li><a title="Art & Decor" href="02_city-details_1.html">Art & Decor</a></li>
+                                            <li><a title="London" href="02_city-details_1.html">Abuja</a></li>
+                                      
                                         </ul>
-                                        <h3 class="post__title"><a title="The 7 Best Restaurants to Try Kobe Beef in London" href="blog-detail.html">The 7 Best Restaurants to Try Kobe Beef in London</a></h3>
+                                        <h3 class="post__title"><a title="The 7 Best Restaurants to Try Kobe Beef in London" href="blog-detail.html">The 7 Best properties in Lagos</a></h3>
                                     </div>
                                 </article>
                             </div>
@@ -508,10 +508,10 @@
                                     </div>
                                     <div class="post__info">
                                         <ul class="post__category">
-                                            <li><a title="Paris" href="02_city-details_1.html">Paris</a></li>
-                                            <li><a title="Stay" href="02_city-details_1.html">Stay</a></li>
+                                            <li><a title="Paris" href="02_city-details_1.html">Port-Harcourt</a></li>
+                                        
                                         </ul>
-                                        <h3 class="post__title"><a title="The 8 Most Affordable Michelin Restaurants in Paris" href="blog-detail.html">The 9 Best Cheap Hotels in New York City</a></h3>
+                                        <h3 class="post__title"><a title="The 8 Most Affordable Properties in Port-Hartcourt" href="blog-detail.html">The 8 Most Affordable Properties in Port-Hartcourt</a></h3>
                                     </div>
                                 </article>
                             </div>
