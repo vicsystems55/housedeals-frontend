@@ -271,8 +271,8 @@
                         </div><!-- .show-map -->
                     </div>  
                 </div>
-                <div class="area-places">
-                            <div class="place-item layout-02 place-hover">
+                <div style="min-height: 430px;" class="area-places">
+                            <div v-for="listing in listings" :key="listing.index" class="place-item layout-02 place-hover">
                                 <div class="place-inner">
                                     <div class="place-thumb hover-img">
                                         <a class="entry-thumb" href="single-1.html"><img src="images/listing/1.jpeg" alt=""></a>
@@ -303,7 +303,7 @@
                                 </div>
                             </div>
 
-                            <div class="place-item layout-02 place-hover">
+                            <!-- <div class="place-item layout-02 place-hover">
                                 <div class="place-inner">
                                     <div class="place-thumb hover-img">
                                         <a class="entry-thumb" href="single-1.html"><img src="images/listing/2.jpeg" alt=""></a>
@@ -394,7 +394,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                     
                 </div>
                 <div class="pagination">
@@ -423,6 +423,9 @@
 </template>
 
 <script>
+// import { useToast } from 'vue-toastification'
+
+// const toast = useToast()
 export default {
     data() {
         return {
@@ -432,13 +435,25 @@ export default {
 
     methods: {
         get_listings(){
+
+
+                    let loader = this.$loading.show({
+                    // Optional parameters
+                    container: this.fullPage ? null : this.$refs.formContainer,
+                    canCancel: false,
+                    onCancel: this.onCancel,
+                    color: '#6CC3EC',
+                });
            
             this.axios({
                 url: process.env.VUE_APP_URL+'/api/listings',
                 method: 'get'
             })
             .then((response) =>{
+                  
+                this.listings = response.data
                 console.log(response)
+                loader.hide()
             })
             .catch((response) =>{
                 console.log(response)
