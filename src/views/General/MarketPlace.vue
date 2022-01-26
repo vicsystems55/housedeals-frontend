@@ -16,85 +16,101 @@
                                 <div class="field-check">
                                     <label for="new_york">
                                         <input type="checkbox" id="new_york" value="">
-                                        New York
+                                        Lagos
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
                                 <div class="field-check">
                                     <label for="london">
                                         <input type="checkbox" id="london" value="">
-                                        London
+                                        Abuja
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
                                 <div class="field-check">
                                     <label for="Chicago">
                                         <input type="checkbox" id="Chicago" value="">
-                                        Chicago
+                                        Port-Harcourt
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
                                 <div class="field-check">
                                     <label for="rome">
                                         <input type="checkbox" id="rome" value="">
-                                        Rome
+                                        Calabar
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
-                                <div class="field-check">
-                                    <label for="barcelona">
-                                        <input type="checkbox" id="barcelona" value="">
-                                        Barcelona
-                                        <span class="checkmark"><i class="la la-check"></i></span>
-                                    </label>
-                                </div>
+                                
                             </div>
                             <a href="#" class="more open-more" data-close="Close" data-more="More">More</a>
                         </div>
                     </div>
+                    
+
+
+
+
+
+
+
                     <div class="filter-box">
-                        <h3>Categories</h3>
+                        <h3>Property Type</h3>
                         <div class="filter-list">
                             <div class="filter-group">
                                 <div class="field-check">
                                     <label for="restaurant">
                                         <input type="checkbox" id="restaurant" value="">
-                                        Restaurant
+                                        Duplex
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
                                 <div class="field-check">
                                     <label for="shopping">
                                         <input type="checkbox" id="shopping" value="">
-                                        Shopping
+                                        Detached Duplex
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
                                 <div class="field-check">
                                     <label for="nightlife">
                                         <input type="checkbox" id="nightlife" value="">
-                                        Nightlife
+                                        Semi Detached Duplex
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
                                 <div class="field-check">
                                     <label for="hostel">
                                         <input type="checkbox" id="hostel" value="">
-                                        Hostel
+                                        Terrace
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
                                 <div class="field-check">
                                     <label for="luxury">
                                         <input type="checkbox" id="luxury" value="">
-                                        Luxury
+                                        Penthouse
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
                                 <div class="field-check">
                                     <label for="market">
                                         <input type="checkbox" id="market" value="">
-                                        Market
+                                        Apartment\flat
+                                        <span class="checkmark"><i class="la la-check"></i></span>
+                                    </label>
+                                </div>
+                                <div class="field-check">
+                                    <label for="market">
+                                        <input type="checkbox" id="market" value="">
+                                        Bungalow
+                                        <span class="checkmark"><i class="la la-check"></i></span>
+                                    </label>
+                                </div>
+                                <div class="field-check">
+                                    <label for="market">
+                                        <input type="checkbox" id="market" value="">
+                                        Mansion
                                         <span class="checkmark"><i class="la la-check"></i></span>
                                     </label>
                                 </div>
@@ -102,7 +118,7 @@
                             <a href="#" class="more open-more" data-close="Close" data-more="More">More</a>
                         </div>
                     </div>
-                    <div class="filter-box">
+                    <div class="filter-box d-none">
                         <h3>Place Type</h3>
                         <div class="filter-list">
                             <div class="filter-group">
@@ -291,7 +307,7 @@
                                                 <a href="#">Karsana, Abuja</a>
                                             </div>
                                         </div>
-                                        <h3 class="place-title"><a href="single-1.html">Ruisseau Residence</a></h3>
+                                        <h3 class="place-title"><a href="single-1.html">{{listing.title}}</a></h3>
                                         <div class="entry-address"><i class="las la-map-marker"></i>153 West 27th Street, New York</div>
                                         <div class="entry-bottom">
                                             
